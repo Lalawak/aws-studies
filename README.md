@@ -7,7 +7,8 @@ This repository documents my journey learning Amazon Web Services (AWS). Here yo
 | Project Name | Description | Status |
 | :--- | :--- | :--- |
 | **[Amazon Bedrock Guardrails](./bedrock-guardrails)** | Implementing content filters and denied topics for Generative AI using Bedrock. | ✅ Completed |
-| *Upcoming...* | *Next study (e.g., EC2, Lambda) will appear here.* | 🚧 Planned |
+| **[Amazon VPC & Flow Logs](./vpc-flow-logs)** | Configuring custom networking, subnets, and traffic monitoring. | ✅ Completed |
+| **[Detecting PII with Macie](./amazon-macie-pii)** | Automated discovery and protection of sensitive data in S3 using AI. | ✅ Completed |
 
 ---
 *Repository maintained by Latifah Wakeel David*
