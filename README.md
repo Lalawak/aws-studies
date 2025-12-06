@@ -12,6 +12,6 @@ This repository documents my journey learning Amazon Web Services (AWS). Here yo
 | **[VPC & VPN Connectivity](./vpc-vpn-connectivity)** | Hybrid networking using Site-to-Site VPN, Transit Gateway, and Direct Connect. | ✅ Completed |
 | **[AWS CloudTrail Auditing](./aws-cloudtrail-audit)** | Configuring governance and risk auditing using CloudTrail and S3. | ✅ Completed |
 | **[S3 Cost Optimization](./s3-lifecycle-cleanup)** | Automating cleanup of incomplete uploads and delete markers to save costs. | ✅ Completed |
-
+| **[Amazon Athena SQL Analysis](./athena-sql-analysis)** | Serverless SQL querying of S3 data using Athena and Glue. | ✅ Completed |
 
 *Repository maintained by Latifah Wakeel David*
